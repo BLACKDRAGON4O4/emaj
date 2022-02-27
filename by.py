@@ -1,2 +1,0 @@
-import by
-by.qaiser()
